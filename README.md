@@ -4,5 +4,6 @@
 expected returns, risks, and correlations.
 
 ● Developed a rebalancing strategy to maintain the desired asset allocation and minimize the impact of market fluctuations. The
-portfolio was rebalanced every 15 days to ensure that the asset weights remained within the desired ranges./n
+portfolio was rebalanced every 15 days to ensure that the asset weights remained within the desired ranges.
+
 ● Achieved an expected return of 13.5% for the optimized portfolio. The sharpe ratio is 1.5 and the maximum drawdown is 15%.
